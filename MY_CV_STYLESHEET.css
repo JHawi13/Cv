@@ -1,0 +1,30 @@
+nav{
+    display: block;
+    background-color: antiquewhite;
+    text-align: center;
+    margin: 0%;
+   
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    margin: 5px;
+}
+body {
+    background-color: blue;
+}
+.Profile{
+    display: inline-block;
+    vertical-align: middle;
+}
+#Wrapper{
+    border: round black 5cm;
+}
+.Profile p{
+    background-image: url(images/gear.jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+    color: gold;
+    border: round 5cm brown;
+    size: auto;
+}
