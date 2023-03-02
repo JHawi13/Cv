@@ -19,12 +19,23 @@ body {
 }
 #Wrapper{
     border: round black 5cm;
+    margin: auto;
 }
-.Profile p{
+#Profileinfo{
     background-image: url(images/gear.jpg);
+    background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
     color: gold;
-    border: round 5cm brown;
-    size: auto;
+    border: solid 1cm brown;
+
+}
+tr{
+    margin:auto;
+    border:solid black 10px;
+}
+table  {
+
+    border: solid 20px red;
+
 }
